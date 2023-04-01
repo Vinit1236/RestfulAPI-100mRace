@@ -1,0 +1,72 @@
+[
+        {
+            "rank": "1",
+            "name": "Usain Bolt",
+            "country": "Jamaica",
+            "year": "2009",
+            "event":"100m Race"
+        },
+        {
+            "rank": "2",
+            "name": "Usain Bolt",
+            "country": "Jamaica",
+            "year": "2012",
+            "event":"100m Race"
+        },
+        {
+            "rank": "3",
+            "name": "Usain Bolt",
+            "country": "Jamaica",
+            "year": "2008",
+            "event":"100m Race"
+        },
+        {
+            "rank": "4",
+            "name": "Christian Coleman",
+            "country": "United States",
+            "year": "2019",
+            "event":"100m Race"
+        },
+        {
+            "rank": "5",
+            "name": "Maurice Greene",
+            "country": "United States",
+            "year": "1999",
+            "event":"100m Race"
+        },
+        {
+            "rank": "6",
+            "name": "Yohan Blake",
+            "country": "Jamaica",
+            "year": "2012",
+            "event":"100m Race"
+        },
+        {
+            "rank": "7",
+            "name": "Justin Gatlin",
+            "country": "United States",
+            "year": "2019",
+            "event":"100m Race"
+        },
+        {
+            "rank": "8",
+            "name": "Tyson Gay",
+            "country": "United States",
+            "year": "2009",
+            "event":"100m Race"
+        },
+        {
+            "rank": "9",
+            "name": "Asafa Powell",
+            "country": "Jamaica",
+            "year": "2008",
+            "event":"100m Race"
+        },
+        {
+            "rank": "10",
+            "name": "Nesta Carter",
+            "country": "Jamaica",
+            "year": "2010",
+            "event":"100m Race"
+        }
+    ]
